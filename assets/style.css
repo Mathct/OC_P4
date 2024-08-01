@@ -247,6 +247,21 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+footer{
+	padding: 2% 10%;
+	background-color: #F6D2B8;
+}
+
+.footer-name {
+	font-weight: 600;
+}
+
+.droits {
+	display: flex;
+	justify-content: center;
+}
+
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
