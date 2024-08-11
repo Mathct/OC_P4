@@ -373,3 +373,6 @@ footer{
 	}
 }
 
+.visually-hidden{
+	visibility: hidden;
+}
